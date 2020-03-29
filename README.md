@@ -2,6 +2,11 @@
 
 ## O que é? 
   - Exercício para criar uma página WEB responsiva fictícia da "Barbearia Alura", utilizando apenas HTML & CSS.
+  
+  #### Versão Desktop:
+  - <img src="https://media.giphy.com/media/jqkuBcPLj4Kz47Se4J/giphy.gif">  
+  #### Versão Mobile:
+  - <img src="https://media.giphy.com/media/WrOv7nQJllAQQn43ri/giphy.gif">
 
 ## Editor utilizado: 
   - VSCode
