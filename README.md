@@ -44,3 +44,4 @@ Caso tenha algo que possa ser melhorado, não hesite em me contatar :smile:
 
 ## License
 [RESET-CSS v2.0 | 20110126 | License: none (public domain)](http://meyerweb.com/eric/tools/css/reset/)
+MIT License - Copyright (c) 2020 william-takayama
